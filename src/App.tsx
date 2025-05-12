@@ -28,6 +28,9 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <div className="bg-black text-green-400 p-4 rounded-xl text-xl font-mono">
+        ✅ Tailwind fonctionne via CDN
+      </div>
     </>
   )
 }
